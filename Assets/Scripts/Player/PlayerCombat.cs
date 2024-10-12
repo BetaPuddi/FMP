@@ -1,0 +1,36 @@
+﻿using UnityEngine;
+
+public class PlayerCombat : MonoBehaviour
+{
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+    
+	public void Attack() 
+	{		
+
+	}
+	
+	public void Block() 
+	{
+		
+	}
+	
+	public void CastMagic() 
+	{
+		
+	}
+	
+	public void Reload() 
+	{
+		
+	}
+}
